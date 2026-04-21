@@ -1,5 +1,7 @@
 # HF Contest Trainer
 
+Fork of [oe5sos/contest_trainer](https://github.com/oe5sos/contest_trainer) used for testing improvements and preparing pull requests upstream.
+
 **A free, browser-based SSB & CW contest simulator for amateur radio operators.**
 
 Try it live: **https://oe5sos.github.io/contest_trainer/**
