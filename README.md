@@ -4,7 +4,7 @@ Fork of [oe5sos/contest_trainer](https://github.com/oe5sos/contest_trainer) used
 
 **A free, browser-based SSB & CW contest simulator for amateur radio operators.**
 
-Try it live: **https://oe5sos.github.io/contest_trainer/**
+Try original live: **https://oe5sos.github.io/contest_trainer/**
 
 ## Features
 - Realistic SSB & CW contest simulation (pileup, QSB, QRM, waterfall)
